@@ -60,3 +60,4 @@ C:\Users\eezeoma\source\repos\EnergyConsumption\obj\Debug\netcoreapp3.1\EnergyCo
 C:\Users\eezeoma\source\repos\EnergyConsumption\obj\Debug\netcoreapp3.1\EnergyConsumption.dll
 C:\Users\eezeoma\source\repos\EnergyConsumption\obj\Debug\netcoreapp3.1\EnergyConsumption.pdb
 C:\Users\eezeoma\source\repos\EnergyConsumption\obj\Debug\netcoreapp3.1\EnergyConsumption.genruntimeconfig.cache
+C:\Users\eezeoma\source\repos\EnergyConsumption\obj\Debug\netcoreapp3.1\EnergyConsumption.csprojAssemblyReference.cache
